@@ -3,7 +3,5 @@
 
 ### razzh 👋
 
-- 🔭 I’m currently working on BAT
+- 🔭 I’m currently working on Hangzhou
 - 🌱 I’m currently learning Javascript
-- 🎮 I'm currently playing *王者荣耀*
-- 📫 How to reach me: airuikun123@gmail.com
