@@ -3,4 +3,4 @@
 
 ### razzh 👋
 - 🔭 I’m currently working on Hangzhou
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning TypeScript
