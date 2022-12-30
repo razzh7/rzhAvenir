@@ -1,5 +1,5 @@
 ### Hi there, I'm razzh 👋
-### [My Blog](https://rzhavenir.github.io/blog/)
+### [My Blog](https://kanmalu.com)
 - 🔭 I’m currently working on Hangzhou
 - 🌱 I’m currently learning TypeScript
 
