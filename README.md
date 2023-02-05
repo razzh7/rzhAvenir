@@ -12,12 +12,12 @@
 <code><img height="20" src="https://api.iconify.design/logos:jest.svg"></code>
 
 <img
-align=""
-height="137px"
-src="https://github-readme-stats.vercel.app/api?username=rzhAvenir&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dark&locale=cn"
+  align=""
+  height="137px"
+  src="https://github-readme-stats.vercel.app/api?username=rzhAvenir&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=buefy&locale=cn"
 />
 <img
-align=""
-height="137px"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzhAvenir&hide_title=true&hide_border=true&layout=compact&theme=dark&locale=cn"
+  align=""
+  height="137px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzhAvenir&hide_title=true&hide_border=true&layout=compact&theme=buefy&locale=cn"
 />
